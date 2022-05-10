@@ -1,4 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
+.editorconfig
+
 ### Node template
 # Logs
 /logs
